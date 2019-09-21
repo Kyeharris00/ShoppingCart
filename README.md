@@ -1,3 +1,1 @@
-# kyeharris00.github.io
-
-This site is my Final project for web development and its a Shopping Cart.
+This site is my Final project for web development and its my attempt at a shopping cart.
